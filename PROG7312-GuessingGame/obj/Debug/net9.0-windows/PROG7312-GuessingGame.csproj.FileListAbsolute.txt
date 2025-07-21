@@ -1,0 +1,16 @@
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\bin\Debug\net9.0-windows\PROG7312-GuessingGame.exe
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\bin\Debug\net9.0-windows\PROG7312-GuessingGame.deps.json
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\bin\Debug\net9.0-windows\PROG7312-GuessingGame.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\bin\Debug\net9.0-windows\PROG7312-GuessingGame.dll
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\bin\Debug\net9.0-windows\PROG7312-GuessingGame.pdb
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312_GuessingGame.Form1.resources
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.dll
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\refint\PROG7312-GuessingGame.dll
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.pdb
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\PROG7312-GuessingGame.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\PROG7312-GuessingGame\PROG7312-GuessingGame\obj\Debug\net9.0-windows\ref\PROG7312-GuessingGame.dll
