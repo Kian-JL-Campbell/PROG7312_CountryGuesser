@@ -1,0 +1,1 @@
+This project features a country guessing game with 4 regions and 4 countries per region (Total of 16 possible choices), hints are given, and player is disqualified after 5 guesses to give a total score.
